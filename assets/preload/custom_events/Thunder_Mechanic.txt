@@ -1,0 +1,2 @@
+Value 1: Choose between 4 note patterns, staircase, jack, doubles, ministair
+Value 2: Ammount of time to dodge
